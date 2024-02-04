@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hey there! My name is Daniil and I am beginning Python-developer.
+
+#### Langs and skills: Python, Django, Django Rest Framework, Асинхронное программирование, Docker, Docker-compose, PostgreSQL, JWT, Алгоритмы, Nginx, Linux, Яндекс.Облако, Djoser, HTML, CSS, Bootstrap, Unittest.
 
 <!--
 **voltorrr/voltorrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
